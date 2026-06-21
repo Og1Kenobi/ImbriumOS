@@ -1,0 +1,15 @@
+# ImbriumOS Core Packages - Broad Hardware + AI/Dev
+ubuntu-minimal
+linux-generic
+linux-headers-generic
+dkms
+mesa-vulkan-drivers
+nvidia-driver-550
+ollama
+python3-pip
+build-essential
+rustup
+golang-go
+git
+neovim
+docker.io
